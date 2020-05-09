@@ -9,7 +9,6 @@ import os
 import logging
 '''
     设置可以调用Logging单独的模块，设置固定格式直接进行调用
-    123
 '''
 
 
