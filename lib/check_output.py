@@ -15,6 +15,7 @@ sys.path.append("./")
 from MyLogger import Logger
 
 '''
+    123
     功能：对每个模块的输出文件进行一一检查及修改
     1. 手动编写的文件列表：output_file.list Format: <modelname> <result_file> <Report_file>
     2. 调用修改模块edit_report_file.py，用于修改一一对应的report文件。
